@@ -16,10 +16,10 @@
 
 **Team Name:** RAZAR
 
-| Full Name      | Student ID | Group  | Role                             | Phone             |
-| ------------------- | ---------- | ------ | -------------------------------- | ----------------- |
-| Ra'no Botirova      | 202490090  | I24B   | Project Manager / System Analyst | +998-33-004-05-45 |
-| Zarifa Tursunova    | 202490401      | I24B   | System Designer                 |                   |
+| Full Name        | Student ID | Group | Role                              | Phone              | Github Link |
+|------------------|------------|-------|-----------------------------------|--------------------|-------------|
+| Ra'no Botirova   | 202490090  | I24B  | Project Manager / System Analyst  | +998-33-004-05-45  |             |
+| Zarifa Tursunova | 202490401  | I24B  | System Designer                   |                    | [GitHub](https://github.com/zarifa97/System-Analysis-P1/blob/main/README.md) |
 
 ---
 
